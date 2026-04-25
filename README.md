@@ -1,1 +1,1 @@
-# claude-instructions-
+Anweisungen für die Webseitenentwicklung:
